@@ -1,0 +1,34 @@
+# test_size: 0.2
+# random_state: 3
+features:
+
+  - Age
+  - DailyRate
+  - DistanceFromHome 
+  - Education 
+  - EmployeeCount
+  - EmployeeNumber
+  - EnvironmentSatisfaction 
+  - HourlyRate 
+  - JobInvolvement 
+  - JobLevel 
+  - JobSatisfaction 
+  - MonthlyIncome 
+  - MonthlyRate 
+  - NumCompaniesWorked 
+  - PercentSalaryHike 
+  - PerformanceRating 
+  - RelationshipSatisfaction 
+  - StandardHours 
+  - StockOptionLevel 
+  - TotalWorkingYears 
+  - TrainingTimesLastYear 
+  - WorkLifeBalance 
+  - YearsAtCompany 
+  - YearsInCurrentRole
+  - YearsSinceLastPromotion 
+  - YearsWithCurrManager
+
+example_test_data_ratio: 0.3
+example_num_train_iter: 10000
+example_learning_rate: 0.01

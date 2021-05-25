@@ -1,0 +1,58 @@
+2021-05-10 19:32:09,394 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train]` failed with error: 
+name 'true' is not defined
+2021-05-10 19:32:36,379 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train]` failed with error: 
+'Attrition'
+2021-05-10 19:48:21,538 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:20:31,538 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train]` failed with error: 
+Failed to save outputs of node split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train].
+The node definition contains a list of outputs ['X_train', 'X_test', 'y_train', 'y_test'], whereas the node function returned a `dict`.
+2021-05-11 00:28:35,517 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train]` failed with error: 
+Failed to save outputs of node split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train].
+The node definition contains a list of outputs ['X_train', 'X_test', 'y_train', 'y_test'], whereas the node function returned a `dict`.
+2021-05-11 00:30:13,654 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:32:10,082 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:35:03,833 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:37:25,357 - kedro.pipeline.node - ERROR - Node `train_model_node: train_model([X_train,y_train]) -> [regressor]` failed with error: 
+Solver lbfgs supports only dual=False, got dual=True
+2021-05-11 00:37:50,492 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:39:11,097 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:39:27,027 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'Yes'
+2021-05-11 00:39:39,545 - kedro.pipeline.node - ERROR - Node `train_model_node: train_model([X_train,y_train]) -> [regressor]` failed with error: 
+Solver newton-cg supports only dual=False, got dual=True
+2021-05-11 00:39:50,746 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'Yes'
+2021-05-11 00:40:48,970 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:47:11,310 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'Yes'
+2021-05-11 00:48:25,487 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:49:21,031 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:50:26,262 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:56:46,257 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 00:57:49,289 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([hr_data,parameters]) -> [X_test,X_train,y_test,y_train]` failed with error: 
+Type Dict cannot be instantiated; use dict() instead
+2021-05-11 01:10:51,884 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 01:12:08,153 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 01:13:17,867 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 01:14:03,546 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 01:14:24,131 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 02:20:47,451 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'
+2021-05-11 02:20:59,417 - kedro.pipeline.node - ERROR - Node `evaluate_model_node: evaluate_model([X_test,regressor,y_test]) -> None` failed with error: 
+could not convert string to float: 'No'

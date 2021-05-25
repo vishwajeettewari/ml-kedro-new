@@ -1,0 +1,136 @@
+2021-05-10 18:52:10,755 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 18:52:10,767 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 18:53:44,895 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 18:53:44,907 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:00:20,317 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:00:20,329 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:01:21,046 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:01:21,057 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:22:00,847 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:22:00,863 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:23:14,653 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:23:14,665 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:32:07,594 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:32:07,606 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:32:34,888 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:32:34,900 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-10 19:48:18,753 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-10 19:48:18,771 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:20:28,590 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:20:28,607 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:28:34,062 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:28:34,074 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:30:12,124 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:30:12,135 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:31:19,583 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:31:19,594 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:32:08,588 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:32:08,601 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:35:02,123 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:35:02,134 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:37:01,351 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:37:01,362 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:37:23,861 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:37:23,872 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:37:48,762 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:37:48,774 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:39:09,599 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:39:09,611 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:39:25,358 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:39:25,369 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:39:38,009 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:39:38,021 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:39:49,092 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:39:49,104 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:40:47,167 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:40:47,178 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:47:09,531 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:47:09,544 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:48:23,766 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:48:23,778 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:49:19,493 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:49:19,504 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:50:24,717 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:50:24,729 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:56:44,734 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:56:44,745 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 00:57:47,801 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 00:57:47,814 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:04:04,376 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:04:04,388 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:05:01,779 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:05:01,790 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:10:32,770 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:10:32,782 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:10:49,837 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:10:49,848 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:12:05,977 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:12:05,989 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:13:16,386 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:13:16,397 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:13:35,987 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:13:35,999 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:13:49,379 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:13:49,390 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:14:02,064 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:14:02,075 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 01:14:22,670 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 01:14:22,682 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 02:20:45,971 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 02:20:45,983 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 02:20:58,001 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 02:20:58,013 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 02:36:14,138 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 02:36:14,150 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 02:36:32,664 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 02:36:32,676 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 02:36:44,968 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 02:36:44,981 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-11 17:27:46,361 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-11 17:27:46,378 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 00:10:29,822 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 00:10:29,840 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 00:12:53,046 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 00:12:53,059 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 01:03:01,964 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 01:03:01,976 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 01:03:19,620 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 01:03:19,632 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 01:49:05,782 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 01:49:05,793 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 01:52:03,103 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 01:52:03,115 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:07:31,612 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:07:31,625 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:08:04,515 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:08:04,527 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:13:26,372 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:13:26,383 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:16:21,935 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:16:21,949 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:16:44,726 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:16:44,738 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:18:00,867 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:18:00,879 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:19:22,249 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:19:22,261 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:32:50,641 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:32:50,654 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:35:29,834 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:35:29,847 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-12 04:35:39,075 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-12 04:35:39,088 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-24 16:09:45,061 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-24 16:09:45,081 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-24 16:11:51,410 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-24 16:11:51,422 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-24 16:12:08,910 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-24 16:12:08,924 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-24 16:14:03,770 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-24 16:14:03,783 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-24 16:15:02,857 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-24 16:15:02,871 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-24 16:16:11,765 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-24 16:16:11,778 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
+2021-05-25 07:22:21,645 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-05-25 07:22:21,662 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/DA/hr-attr
